@@ -5,7 +5,9 @@ Inflammatory bowel disease (IBD) is a chronic inflammatory disease of the gastro
 
 ---
 
-<img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_1.jpg" width="350" title="hover text">
-<img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_2.jpg" width="350" title="hover text">
-<img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_3.jpg" width="350" title="hover text">
-<img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_4.jpg" width="350" title="hover text">
+<div style='display:flex;'>
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_1.jpg" width="180" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_2.jpg" width="180" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_3.jpg" width="180" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_4.jpg" width="180" title="hover text">
+</div>
