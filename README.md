@@ -31,5 +31,19 @@ Ulcerative colitis is a type of IBD that can cause inflammation and ulceration i
 
 ---
 
+## DCNN Model Implementation
+
+A deep convolutional neural network (CNN) was developed and trained on Kvasir capsule endoscopy images with a resolution of 256x256 pixels to detect inflammatory bowel disease (IBD). The network achieved an impressive accuracy of 98%. This high accuracy demonstrates the potential of deep learning techniques in improving the diagnosis of IBD from capsule endoscopy images, offering a powerful tool for medical professionals to more accurately and efficiently identify the disease.
+
+## VGG16(Small version) Accuracy and Loss 
+<div style='display:flex;'>
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Graph%20images/VGG16%20Accuracy%20graph.png" width="500" height="500" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Graph%20images/VGG16%20Loss%20graph.png" width="500" height="500" title="hover text">
+</div>
 
 
+## VGG16(Keras model) Accuracy and Loss 
+<div style='display:flex;'>
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Graph%20images/Keras%20model%20accuracy%20graph.png" width="500" height="500" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Graph%20images/Keras%20model%20loss%20graph.png" width="500" height="500" title="hover text">
+</div>
