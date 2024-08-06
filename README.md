@@ -18,10 +18,10 @@ Ulcerative colitis is a type of IBD that can cause inflammation and ulceration i
 
 ### Sample images
 <div style='display:flex;'>
-  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_1.jpg" width="240" height="240" title="hover text">
-  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Polyps_2.jpg" width="240" height="240" title="hover text">
-  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Ulcer_3.jpg" width="240" height="240" title="hover text">
-  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Ulcer_4.jpg" width="240" height="240" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_1.jpg" width="180" height="180" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Polyps_2.jpg" width="180" height="180" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Ulcer_3.jpg" width="180" height="180" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Ulcer_4.jpg" width="180" height="180" title="hover text">
 
 </div>
 
@@ -37,13 +37,13 @@ A deep convolutional neural network (CNN) was developed and trained on Kvasir ca
 
 ## VGG16(Small version) Accuracy and Loss 
 <div style='display:flex;'>
-  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Graph%20images/VGG16%20Accuracy%20graph.png" width="500" height="500" title="hover text">
-  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Graph%20images/VGG16%20Loss%20graph.png" width="500" height="500" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Graph%20images/VGG16%20Accuracy%20graph.png" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Graph%20images/VGG16%20Loss%20graph.png" title="hover text">
 </div>
 
 
 ## VGG16(Keras model) Accuracy and Loss 
 <div style='display:flex;'>
-  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Graph%20images/Keras%20model%20accuracy%20graph.png" width="500" height="500" title="hover text">
-  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Graph%20images/Keras%20model%20loss%20graph.png" width="500" height="500" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Graph%20images/Keras%20model%20accuracy%20graph.png" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Graph%20images/Keras%20model%20loss%20graph.png" title="hover text">
 </div>
