@@ -17,7 +17,7 @@ Ulcerative colitis is a type of IBD that can cause inflammation and ulceration i
 ---
 
 ### Sample images
-<div style='display:flex; width:100%'>
+<div style='display:flex;'>
   <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_1.jpg" width="250" title="hover text">
   <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Polyps_2.jpg" width="250" title="hover text">
   <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Ulcer_3.jpg" width="250" title="hover text">
