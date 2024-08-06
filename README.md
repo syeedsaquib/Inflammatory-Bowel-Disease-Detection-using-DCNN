@@ -6,8 +6,26 @@ Inflammatory bowel disease (IBD) is a chronic inflammatory disease of the gastro
 ---
 
 <div style='display:flex;'>
-  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_1.jpg" width="180" title="hover text">
-  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_2.jpg" width="180" title="hover text">
-  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_3.jpg" width="180" title="hover text">
-  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_4.jpg" width="180" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_1.jpg" width="210" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_2.jpg" width="210" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_3.jpg" width="210" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Esophagitis_4.jpg" width="210" title="hover text">
+</div>
+<div style='display:flex;'>
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Normal_1.jpg" width="210" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Normal_2.jpg" width="210" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Normal_3.jpg" width="210" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Normal_4.jpg" width="210" title="hover text">
+</div>
+<div style='display:flex;'>
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Polyps_1.jpg" width="210" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Polyps_2.jpg" width="210" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Polyps_3.jpg" width="210" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Polyps_4.jpg" width="210" title="hover text">
+</div>
+<div style='display:flex;'>
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Ulcer_1.jpg" width="210" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Ulcer_2.jpg" width="210" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Ulcer_3.jpg" width="210" title="hover text">
+  <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Training%20data%20sample/Ulcer_4.jpg" width="210" title="hover text">
 </div>
