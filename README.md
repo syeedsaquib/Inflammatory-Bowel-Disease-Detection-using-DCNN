@@ -52,4 +52,4 @@ A deep convolutional neural network (CNN) was developed and trained on Kvasir ca
 
 ## Colon Disease Dataset on kaggle
 
-## [Kaggle link](https://www.kaggle.com/datasets/francismon/curated-colon-dataset-for-deep-learning)
+### [Kaggle dataset link](https://www.kaggle.com/datasets/francismon/curated-colon-dataset-for-deep-learning)
