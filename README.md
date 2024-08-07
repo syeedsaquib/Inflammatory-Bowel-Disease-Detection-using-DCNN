@@ -47,3 +47,9 @@ A deep convolutional neural network (CNN) was developed and trained on Kvasir ca
   <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Graph%20images/Keras%20model%20accuracy%20graph.png" title="hover text">
   <img src="https://raw.githubusercontent.com/syeedsaquib/Inflammatory-Bowel-Disease-Detection-using-DCNN/main/Graph%20images/Keras%20model%20loss%20graph.png" title="hover text">
 </div>
+
+--- 
+
+## Colon Disease Dataset on kaggle
+
+[Kaggle link](https://www.kaggle.com/datasets/francismon/curated-colon-dataset-for-deep-learning)
